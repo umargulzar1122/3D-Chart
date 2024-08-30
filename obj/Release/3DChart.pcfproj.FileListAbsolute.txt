@@ -1,0 +1,2 @@
+C:\UMAR_PERSONAL\_WorkSpace\Canvas_Components\Canvas_Component\FinalVersions\Nexus\3DChart\obj\Release\3DChart.pcfproj.AssemblyReference.cache
+C:\UMAR_PERSONAL\_WorkSpace\Canvas_Components\Canvas_Component\FinalVersions\Nexus\3DChart\obj\Release\3DChart.pcfproj.CoreCompileInputs.cache
