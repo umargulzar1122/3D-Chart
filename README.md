@@ -1,3 +1,13 @@
-$ npm install
+# Creating Stunning 3D Charts in Power Apps Control Framework
 
-$ npm start watch  
+
+## Install
+```sh
+$ npm install
+```
+
+
+## Run code
+```sh
+$ npm start watch
+```
