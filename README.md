@@ -1,13 +1,13 @@
 # Creating Stunning 3D Charts in Power Apps Control Framework
 
 
-## Install
+## Installation
 ```sh
 $ npm install
 ```
 
 
-## Run code
+## Run on your localhost
 ```sh
 $ npm start watch
 ```
