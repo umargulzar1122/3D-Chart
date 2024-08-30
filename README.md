@@ -12,6 +12,6 @@ $ npm install
 $ npm start watch
 ```
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1725017568/Screenshot_2024-08-30_162942_ushhug.png)
